@@ -1,1 +1,7 @@
 *.parquet
+optiver_dataset/sample_submission.csv
+optiver_dataset/sample_submission.csv
+optiver_dataset/test.csv
+/optiver_dataset
+/interview/optiver_dataset
+/interview/Project 3 - Nasdaq Closing Price Prediction Challenge
